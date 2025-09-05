@@ -39,9 +39,9 @@
    
 -   Оформления найденных ошибок (Баг-репорты)  
        
-      https://github.com/andreipyrlik05-lab/Bug-report_1/blob/main/README.md  
+      https://github.com/Andrei-Pyrlik-QA/Bug_report_1_UI/blob/main/README.md   
 
-      https://github.com/andreipyrlik05-lab/Bug-report_2/blob/main/README.md 
+      https://github.com/Andrei-Pyrlik-QA/Bug-report_2/blob/main/README.md  
       
 
 **Тестирование API добавление товара в корзину**
