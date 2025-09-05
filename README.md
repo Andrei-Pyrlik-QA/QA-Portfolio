@@ -62,7 +62,7 @@ https://github.com/Andrei-Pyrlik-QA/TestCase_API/tree/main
 
 **Для связи:**
 
-* Telegram: @Mr_Pyrlik
+* Telegram:  [@AndreiPyrlik](https://t.me/@Mr_Pyrlik)
 
 
 **Всегда открыт к новым проектам и предложениям о работе!**
