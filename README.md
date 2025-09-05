@@ -32,9 +32,9 @@
      https://github.com/Andrei-Pyrlik-QA/TestCase_API/blob/main/README.md    
 
  - Тест-кейсы в TestRail  
-    [ТестКейсы](https://github.com/)  
-   [ТестКейс "Ввод двойного имени"](https://github.com/)  
-  [ТестКейсы "Все запоненные поля"](https://github.com/)  
+    [ТестКейсы](https://github.com/Andrei-Pyrlik-QA/TestCase_UI/blob/main/TestRail/Список%20Тест%20Кейсов.png)    
+    [ТестКейс "Ввод двойного имени"](https://github.com/Andrei-Pyrlik-QA/TestCase_UI/blob/main/TestRail/Ввод%20двойного%20имени.png)    
+   [ТестКейсы "Все запоненные поля"](https://github.com/Andrei-Pyrlik-QA/TestCase_UI/blob/main/TestRail/Список%20Тест%20Кейсов.png)    
 
    
 -   Оформления найденных ошибок (Баг-репорты)  
