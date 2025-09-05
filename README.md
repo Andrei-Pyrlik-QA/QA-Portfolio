@@ -23,13 +23,13 @@
 **Подробный отчет о тестировании: Чек-лист, тест-кейсы,  баг-репорты доступны на GitHub:**
 
  -  Методы тестирования которые я использовал  
-      https://github.com/  
+      https://github.com/Andrei-Pyrlik-QA/Testing_methods/blob/main/README.md    
 
  -  Тестовая документация (Чек-лист)  
-      https://github.com/  
+      https://github.com/Andrei-Pyrlik-QA/CheckList_UI/blob/main/README.md   
 
  - Тестовая документация (Тест-кейсы)  
-     https://github.com/  
+     https://github.com/Andrei-Pyrlik-QA/TestCase_API/blob/main/README.md    
 
  - Тест-кейсы в TestRail  
     [ТестКейсы](https://github.com/)  
